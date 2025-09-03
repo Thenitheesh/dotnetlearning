@@ -1,0 +1,11 @@
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.AssemblyInfo.cs
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\bin\Debug\net8.0\MyClassLibrary.deps.json
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\bin\Debug\net8.0\MyClassLibrary.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\bin\Debug\net8.0\MyClassLibrary.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\refint\MyClassLibrary.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\MyClassLibrary.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\SampleApp\BankingSystem\obj\Debug\net8.0\ref\MyClassLibrary.dll
