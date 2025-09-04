@@ -1,0 +1,12 @@
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\bin\Debug\net8.0\respository.deps.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\bin\Debug\net8.0\respository.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\bin\Debug\net8.0\respository.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.AssemblyInfoInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.AssemblyInfo.cs
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.sourcelink.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\refint\respository.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\respository.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day7\respository\obj\Debug\net8.0\ref\respository.dll

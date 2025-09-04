@@ -32,3 +32,4 @@ C:\Workspace\dotnetlearning\EcommerceSolution\OnlineShoppoingPortal\obj\Debug\ne
 C:\Workspace\dotnetlearning\EcommerceSolution\OnlineShoppoingPortal\obj\Debug\net8.0\OnlineShoppoingPortal.pdb
 C:\Workspace\dotnetlearning\EcommerceSolution\OnlineShoppoingPortal\obj\Debug\net8.0\OnlineShoppoingPortal.genruntimeconfig.cache
 C:\Workspace\dotnetlearning\EcommerceSolution\OnlineShoppoingPortal\obj\Debug\net8.0\ref\OnlineShoppoingPortal.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\OnlineShoppoingPortal\obj\Debug\net8.0\OnlineShoppoingPortal.sourcelink.json

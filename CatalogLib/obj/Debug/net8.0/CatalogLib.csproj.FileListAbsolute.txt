@@ -9,3 +9,4 @@ C:\Workspace\dotnetlearning\EcommerceSolution\CatalogLib\obj\Debug\net8.0\Catalo
 C:\Workspace\dotnetlearning\EcommerceSolution\CatalogLib\obj\Debug\net8.0\refint\CatalogLib.dll
 C:\Workspace\dotnetlearning\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.pdb
 C:\Workspace\dotnetlearning\EcommerceSolution\CatalogLib\obj\Debug\net8.0\ref\CatalogLib.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.sourcelink.json
