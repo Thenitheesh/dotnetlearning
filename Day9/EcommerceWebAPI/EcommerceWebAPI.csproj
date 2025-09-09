@@ -8,11 +8,15 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+     <Content Include="..\Product.json">
+       <Link>Product.json</Link>
+       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+     </Content>
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\repository\repository.csproj" />
-     <ProjectReference Include="..\repository\entities.csproj" />
+  <ProjectReference Include="..\entities\entities.csproj" />
       <ProjectReference Include="..\services\services.csproj" />
   </ItemGroup>
 

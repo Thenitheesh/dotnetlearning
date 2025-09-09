@@ -18,14 +18,27 @@ public class ProductRepository : IRepository
             new Product { Id = 3, Title = "Product 3", Price = 29.99m, Description = "Description 3" }
         };
     }
-    private static string filePath = File.ReadAllText("../Product.json");
 
     public IEnumerable<Product> GetAllProducts()
     {
-        string path = @"C:\Workspace\dotnetlearning\EcommerceSolution\Day9\Product.json";
 
-        string jsonData = File.ReadAllText(path);
-        return JsonSerializer.Deserialize<List<Product>>(jsonData) ?? new List<Product>();
+        var baseDir = AppContext.BaseDirectory;
+        var path = Path.Combine(baseDir, "Product.json");
+
+        if (!File.Exists(path))
+        {
+            return _products;
+        }
+
+        try
+        {
+            string jsonData = File.ReadAllText(path);
+            return JsonSerializer.Deserialize<List<Product>>(jsonData) ?? new List<Product>();
+        }
+        catch
+        {
+            return _products;
+        }
 
     }
 

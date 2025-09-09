@@ -70,3 +70,4 @@ C:\Workspace\dotnetlearning\EcommerceSolution\Day9\EcommerceWebAPI\bin\Debug\net
 C:\Workspace\dotnetlearning\EcommerceSolution\Day9\EcommerceWebAPI\bin\Debug\net8.0\services.dll
 C:\Workspace\dotnetlearning\EcommerceSolution\Day9\EcommerceWebAPI\bin\Debug\net8.0\services.pdb
 C:\Workspace\dotnetlearning\EcommerceSolution\Day9\EcommerceWebAPI\bin\Debug\net8.0\entities.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day9\EcommerceWebAPI\bin\Debug\net8.0\Product.json

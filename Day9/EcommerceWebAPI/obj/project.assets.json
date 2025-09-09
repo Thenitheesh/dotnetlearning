@@ -496,6 +496,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Swashbuckle.AspNetCore >= 6.6.2",
+      "entities >= 1.0.0",
       "repository >= 1.0.0",
       "services >= 1.0.0"
     ]
@@ -526,6 +527,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\entities\\entities.csproj": {
+              "projectPath": "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\entities\\entities.csproj"
+            },
             "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\repository\\repository.csproj": {
               "projectPath": "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\repository\\repository.csproj"
             },

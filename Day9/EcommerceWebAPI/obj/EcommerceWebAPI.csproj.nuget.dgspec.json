@@ -27,6 +27,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\entities\\entities.csproj": {
+                "projectPath": "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\entities\\entities.csproj"
+              },
               "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\repository\\repository.csproj": {
                 "projectPath": "C:\\Workspace\\dotnetlearning\\EcommerceSolution\\Day9\\repository\\repository.csproj"
               },
