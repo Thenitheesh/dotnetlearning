@@ -1,0 +1,70 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProductServices/1.0.0": {
+        "dependencies": {
+          "ProductEntities": "1.0.0",
+          "ProductRepositories": "1.0.0"
+        },
+        "runtime": {
+          "ProductServices.dll": {}
+        }
+      },
+      "ProductEntities/1.0.0": {
+        "runtime": {
+          "ProductEntities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ProductRepositories/1.0.0": {
+        "dependencies": {
+          "ProductEntities": "1.0.0",
+          "Utility": "1.0.0"
+        },
+        "runtime": {
+          "ProductRepositories.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Utility/1.0.0": {
+        "runtime": {
+          "Utility.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProductServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProductRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

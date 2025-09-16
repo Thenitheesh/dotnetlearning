@@ -1,0 +1,12 @@
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\bin\Debug\net8.0\ProductEntities.deps.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\bin\Debug\net8.0\ProductEntities.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\bin\Debug\net8.0\ProductEntities.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.AssemblyInfoInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.AssemblyInfo.cs
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.sourcelink.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\refint\ProductEntities.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ProductEntities.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day16\Portal\withView\ProductEntities\obj\Debug\net8.0\ref\ProductEntities.dll

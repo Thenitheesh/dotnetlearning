@@ -1,0 +1,12 @@
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\bin\Debug\net8.0\CatalogServices.deps.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\bin\Debug\net8.0\CatalogServices.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\bin\Debug\net8.0\CatalogServices.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfoInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.AssemblyInfo.cs
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.sourcelink.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\refint\CatalogServices.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\CatalogServices.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogServices\obj\Debug\net8.0\ref\CatalogServices.dll

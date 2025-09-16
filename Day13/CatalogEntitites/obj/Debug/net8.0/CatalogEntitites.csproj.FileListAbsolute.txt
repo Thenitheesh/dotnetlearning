@@ -1,0 +1,12 @@
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\bin\Debug\net8.0\CatalogEntitites.deps.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\bin\Debug\net8.0\CatalogEntitites.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\bin\Debug\net8.0\CatalogEntitites.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.AssemblyInfoInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.AssemblyInfo.cs
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.csproj.CoreCompileInputs.cache
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.sourcelink.json
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\refint\CatalogEntitites.dll
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\CatalogEntitites.pdb
+C:\Workspace\dotnetlearning\EcommerceSolution\Day13\CatalogEntitites\obj\Debug\net8.0\ref\CatalogEntitites.dll

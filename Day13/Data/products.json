@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "title": "Smartphone X Pro",
+        "price": 799.99,
+        "description": "Latest smartphone with 6.5-inch OLED display, 128GB storage and triple camera system.",
+        "imageUrl": "images/smartphone-x-pro.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Wireless Headphones",
+        "price": 149.99,
+        "description": "Premium noise-cancelling wireless headphones with 30-hour battery life.",
+        "imageUrl": "images/wireless-headphones.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Men's Casual Shirt",
+        "price": 34.99,
+        "description": "Comfortable cotton casual shirt in multiple colors, perfect for any occasion.",
+        "imageUrl": "images/mens-casual-shirt.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Women's Running Shoes",
+        "price": 89.99,
+        "description": "Lightweight and breathable running shoes with superior cushioning.",
+        "imageUrl": "images/womens-running-shoes.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Smart Watch",
+        "price": 199.99,
+        "description": "Fitness tracker and smartwatch with heart rate monitoring and GPS.",
+        "imageUrl": "images/smart-watch.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Laptop Pro 15",
+        "price": 1299.99,
+        "description": "Powerful laptop with 15-inch display, 16GB RAM, and 512GB SSD.",
+        "imageUrl": "images/laptop-pro-15.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Coffee Maker",
+        "price": 79.99,
+        "description": "Programmable coffee maker with 12-cup capacity and auto shut-off.",
+        "imageUrl": "images/coffee-maker.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Wireless Mouse",
+        "price": 24.99,
+        "description": "Ergonomic wireless mouse with long battery life and precise tracking.",
+        "imageUrl": "images/wireless-mouse.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Backpack",
+        "price": 49.99,
+        "description": "Durable backpack with multiple compartments, suitable for laptop and travel.",
+        "imageUrl": "images/backpack.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Bluetooth Speaker",
+        "price": 59.99,
+        "description": "Portable Bluetooth speaker with waterproof design and 10-hour playback.",
+        "imageUrl": "images/bluetooth-speaker.jpg"
+    }
+]

@@ -33,7 +33,6 @@ public class WeatherForecastController : ControllerBase
     //     .ToArray();
     // }
 
-    // GET /WeatherForecast
     [HttpGet]
     public IEnumerable<Product> Get()
     {
@@ -42,7 +41,6 @@ public class WeatherForecastController : ControllerBase
         return productService.GetAllProducts();
     }
 
-    // GET /GetProducts (explicit shortcut route)
     [HttpGet]
     [Route("/GetProducts")]
     public IEnumerable<Product> GetProducts()
